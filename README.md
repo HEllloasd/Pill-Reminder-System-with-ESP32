@@ -2,6 +2,7 @@
 
 This project is an **IoT-based Medicine Reminder** built using the **ESP32**.  
 It allows users to set medication times through a **web interface**, and when the set time is reached, the system **plays an audio alert** via a DFPlayer module and activates **LED indicators**.
+*The Captive Portal dosent pop-up for Samsing devices
 
 ---
 
