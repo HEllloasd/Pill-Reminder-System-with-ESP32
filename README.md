@@ -9,7 +9,7 @@ It allows users to set medication times through a **web interface**, and when th
 - 🕒 Real-time clock and schedule checking  
 - 🌐 WiFi configuration via web interface  
 - 💾 Saves medicine schedules in non-volatile memory (Preferences)  
-- 🔊 Audio reminders using **DFRobot DF1201S DFPlayer**  
+- 🔊 Audio reminders using **DFRobot DFPlayer Pro v1**  
 - 💡 LED indicators for visual alerts  
 - 🔧 Easy setup and configuration
 
