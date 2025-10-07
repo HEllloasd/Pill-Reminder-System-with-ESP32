@@ -49,8 +49,3 @@ Schematic Diagram For Wiring.png
   - `Adafruit_ST7789`
 
 ---
-
-## 👤 Author
-**Jordon Toh**  
-
----
